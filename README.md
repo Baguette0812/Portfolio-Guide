@@ -7,6 +7,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Python](#python)
 - [Power BI](#Power-BI)
 - [Tableau](#tableau)
+- [Excel](#excel)
 
 # SQL
 
@@ -39,6 +40,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
+| 🦄 Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. |
+| 🦠 Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. |
+
+***
+
+# Excel
+
+| Project Link | Project Description |
+|---|---|
 | 🦄 Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. |
 | 🦠 Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. |
 
