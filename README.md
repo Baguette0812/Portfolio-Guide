@@ -40,7 +40,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🦄 Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. |
+| [Covid-19 and its impact on the Australian stock market](https://github.com/Baguette0812/Covid-19-Impact-on-Australian-stock-market) | Analysed global and local Covid-19 cases & its impact on the Australian stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | Lorem ipsum dolor sit amet. |
 | 🦠 Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. |
 
 ***
@@ -49,7 +49,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description |
 |---|---|
-| 🦄 Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. |
-| 🦠 Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. |
+| [Bike sales dashboard](https://github.com/Baguette0812/Bike-sales-dashboard) | A small standalone project created to establish data cleaning and dashboard creation skills in excel. |
+| 🦠 Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. |
 
 ***
