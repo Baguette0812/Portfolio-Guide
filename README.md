@@ -50,6 +50,5 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description |
 |---|---|
 | [Bike sales dashboard](https://github.com/Baguette0812/Bike-sales-dashboard) | A small standalone project worked on to demonstrate proficiency in skills like data cleaning and dashboard creation in excel. |
-| 🦠 Lorem ipsum dolor sit amet. | Lorem ipsum dolor sit amet. |
 
 ***
