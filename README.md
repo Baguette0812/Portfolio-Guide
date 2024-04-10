@@ -14,7 +14,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
 | 🦠 [Covid-19 and its impact on the Australian stock market](https://github.com/Baguette0812/Covid-19-Impact-on-Australian-stock-market) | Data analysis, data cleaning | Analysed global and local Covid-19 cases & its impact on the Australian stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |
-| 🏠 [Housing data for data cleaning](https://github.com/Baguette0812/Housing-data--for-data-cleaning) | Data cleaning | Contained messy housing data which required various different things to be cleaned in order to be turned into data that is more usuable. |
+| 🏠 [Housing data for data cleaning](https://github.com/Baguette0812/Housing-data--for-data-cleaning) | Data cleaning | Contained messy housing data which required various different things to be cleaned in order to be turned into data that is more useable. |
 
 ***
 
