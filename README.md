@@ -41,7 +41,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 | 🦠 [Covid-19 and its impact on the Australian stock market](https://github.com/Baguette0812/Covid-19-Impact-on-Australian-stock-market) | Analysed global and local Covid-19 cases & its impact on the Australian stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | Lorem ipsum dolor sit amet. |
-| 🏘️ [Airbnb listings](https://github.com/Baguette0812/Airbnb-listings) | Visualised key insights like revenue, price per bedroom, and price by zipcode using Tableau. | Lorem ipsum dolor sit amet. |
+| 🏘️ [Airbnb listings](https://github.com/Baguette0812/Airbnb-listings) | Visualised key insights like revenue, price per bedroom, and price by zipcode using Tableau. | [Dashboard](https://public.tableau.com/app/profile/edmon.youekana/viz/AirbnbListings_17127334781010/Dashboard1?publish=yes) |
 
 ***
 
